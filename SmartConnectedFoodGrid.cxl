@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cmap xmlns:dcterms="http://purl.org/dc/terms/" xmlns="http://cmap.ihmc.us/xml/cmap/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+    <res-meta>
+        <dc:title>Untitled 1</dc:title>
+        <dc:creator>
+            <vcard:FN>Matthew Lange</vcard:FN>
+            <vcard:EMAIL>mclange@ucdavis.edu</vcard:EMAIL>
+            <vcard:ORG>
+                <vcard:Orgname>IC-FOODS</vcard:Orgname>
+            </vcard:ORG>
+        </dc:creator>
+        <dc:contributor>
+            <vcard:FN>Matthew Lange</vcard:FN>
+            <vcard:EMAIL>mclange@ucdavis.edu</vcard:EMAIL>
+            <vcard:ORG>
+                <vcard:Orgname>IC-FOODS</vcard:Orgname>
+            </vcard:ORG>
+        </dc:contributor>
+        <dcterms:rightsHolder>
+            <vcard:FN>Matthew Lange</vcard:FN>
+            <vcard:EMAIL>mclange@ucdavis.edu</vcard:EMAIL>
+            <vcard:ORG>
+                <vcard:Orgname>IC-FOODS</vcard:Orgname>
+            </vcard:ORG>
+        </dcterms:rightsHolder>
+        <dc:language>en</dc:language>
+        <dc:format>x-cmap/x-storable</dc:format>
+        <dc:publisher>FIHMC CmapTools 6.02</dc:publisher>
+        <dc:source>cmap:1MHZH5RK6-2C8DRLF-1:1QBMF9C6K-1575MFB-4YP:1R23QZ1F4-1HL1XFK-SZ</dc:source>
+    </res-meta>
+    <map width="668" height="568">
+        <concept-list>
+            <concept id="1R23R4HD9-R0FX01-1DQ" label="Voice&#xa;to&#xa;Text/App"/>
+            <concept id="1R23QZ5PP-6CNW9P-T5" label="Smart&#xa;Connected &#xa;Food&#xa;Grid"/>
+            <concept id="1R23R8QLB-1Z31PRC-1Q1" label="Ontology and Data&#xa;Microattribution"/>
+            <concept id="1R23R5BC5-1KJHRWM-1G4" label="Semantically&#xa;Enabled&#xa;Robotics"/>
+            <concept id="1R23R25LP-QRXWJR-18C" label="Advanced&#xa;Sensing"/>
+            <concept id="1R23R81V1-17973PS-1NV" label="Food&#xa;Supply&#xa;Chain"/>
+            <concept id="1R23RLLL2-26G3C6V-2F8" label="Linked&#xa;Object&#xa;Data"/>
+            <concept id="1R23R3CRL-6QJNPY-1BZ" label="Multiple&#xa;Heterogeneous&#xa;Output&#xa;Forms"/>
+            <concept id="1R23RNHXD-9WW5PM-2J4" label="SPARQL&#xa;Agregators"/>
+            <concept id="1R23R7JDN-1DW2FC9-1LV" label="Scientific&#xa;Data Provenance"/>
+            <concept id="1R23R1HC4-28NVQN2-165" label="Semantic&#xa;Interoperability"/>
+            <concept id="1R23RB7MT-25D07MX-1S4" label="Queriable&#xa;Data&#xa;Stores"/>
+            <concept id="1R23R6WQ4-12JHSC8-1KT" label="Traceablity"/>
+            <concept id="1R23RL26H-1P1F4QB-2CS" label="Ontologies"/>
+            <concept id="1R23R2MCR-1F57KHS-19H" label="Multiple&#xa;Input&#xa;Interfaces"/>
+        </concept-list>
+        <linking-phrase-list>
+            <linking-phrase id="1R23R7JDR-1W24PN2-1LY" label="includes"/>
+            <linking-phrase id="1R23RL26L-V8RJJ2-2CW" label="includes"/>
+            <linking-phrase id="1R23R1HC8-281633Z-168" label="has&#xa;features"/>
+            <linking-phrase id="1R23R5BC8-HYBG7Q-1G7" label="includes"/>
+            <linking-phrase id="1R23R3YN4-HX54PY-1CM" label="includes"/>
+        </linking-phrase-list>
+        <connection-list>
+            <connection id="1R23R7JDS-MWC9K0-1M7" from-id="1R23R7JDR-1W24PN2-1LY" to-id="1R23R7JDN-1DW2FC9-1LV"/>
+            <connection id="1R23R8QLF-2D29XT2-1Q4" from-id="1R23R7JDR-1W24PN2-1LY" to-id="1R23R8QLB-1Z31PRC-1Q1"/>
+            <connection id="1R23RL26M-2BF1QB5-2D5" from-id="1R23RL26L-V8RJJ2-2CW" to-id="1R23RL26H-1P1F4QB-2CS"/>
+            <connection id="1R23RL26M-22H05C8-2CZ" from-id="1R23R1HC4-28NVQN2-165" to-id="1R23RL26L-V8RJJ2-2CW"/>
+            <connection id="1R23R81V4-20HQXH3-1NY" from-id="1R23R7JDR-1W24PN2-1LY" to-id="1R23R81V1-17973PS-1NV"/>
+            <connection id="1R23R7JDS-24P0HCF-1M1" from-id="1R23R6WQ4-12JHSC8-1KT" to-id="1R23R7JDR-1W24PN2-1LY"/>
+            <connection id="1R23RNHXH-GJYD3Q-2J7" from-id="1R23RL26L-V8RJJ2-2CW" to-id="1R23RNHXD-9WW5PM-2J4"/>
+            <connection id="1R23R3YN5-7KJDFS-1CW" from-id="1R23R2MCR-1F57KHS-19H" to-id="1R23R3YN4-HX54PY-1CM"/>
+            <connection id="1R23R1HC9-6QBJ02-16D" from-id="1R23QZ5PP-6CNW9P-T5" to-id="1R23R1HC8-281633Z-168"/>
+            <connection id="1R23RLLL4-1L99G8T-2FC" from-id="1R23RL26L-V8RJJ2-2CW" to-id="1R23RLLL2-26G3C6V-2F8"/>
+            <connection id="1R23R6WQ7-1PW6DYJ-1KX" from-id="1R23R1HC8-281633Z-168" to-id="1R23R6WQ4-12JHSC8-1KT"/>
+            <connection id="1R23R5BC9-XWLDLX-1GB" from-id="1R23R3CRL-6QJNPY-1BZ" to-id="1R23R5BC8-HYBG7Q-1G7"/>
+            <connection id="1R23R2MCV-1FWMWX5-19L" from-id="1R23R1HC8-281633Z-168" to-id="1R23R2MCR-1F57KHS-19H"/>
+            <connection id="1R23R1HCB-1V5NQRS-16L" from-id="1R23R1HC8-281633Z-168" to-id="1R23R1HC4-28NVQN2-165"/>
+            <connection id="1R23R3YN5-SKSTQ3-1CQ" from-id="1R23R3YN4-HX54PY-1CM" to-id="1R23R25LP-QRXWJR-18C"/>
+            <connection id="1R23R5BC9-1CPNJ75-1GJ" from-id="1R23R5BC8-HYBG7Q-1G7" to-id="1R23R5BC5-1KJHRWM-1G4"/>
+            <connection id="1R23R4HDD-7DSM4R-1DT" from-id="1R23R3YN4-HX54PY-1CM" to-id="1R23R4HD9-R0FX01-1DQ"/>
+            <connection id="1R23R3CRP-1T1JPPY-1C2" from-id="1R23R1HC8-281633Z-168" to-id="1R23R3CRL-6QJNPY-1BZ"/>
+            <connection id="1R23RB7MX-9JJVY7-1S7" from-id="1R23R5BC8-HYBG7Q-1G7" to-id="1R23RB7MT-25D07MX-1S4"/>
+        </connection-list>
+        <concept-appearance-list>
+            <concept-appearance id="1R23R4HD9-R0FX01-1DQ" x="1018" y="501" width="78" height="64" font-name="Trebuchet MS" font-size="13" font-style="bold" font-color="26,117,72,255" text-margin="4" background-color="255,255,255,255"
+                border-color="136,169,184,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" border-shape-rrarc="10.0" text-alignment="left" shadow-color="200,200,200,255" min-width="-1" min-height="-1"/>
+            <concept-appearance id="1R23QZ5PP-6CNW9P-T5" x="490" y="412" width="91" height="77" font-name="Trebuchet MS" font-size="13" font-style="bold" font-color="26,117,72,255" text-margin="4" background-color="255,255,255,255"
+                background-image-style="full" border-color="136,169,184,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" border-shape-rrarc="10.0" text-alignment="center" shadow-color="200,200,200,255" min-width="-1" min-height="-1"/>
+            <concept-appearance id="1R23R8QLB-1Z31PRC-1Q1" x="1043" y="323" width="133" height="47" font-name="Trebuchet MS" font-size="13" font-style="bold" font-color="26,117,72,255" text-margin="4" background-color="255,255,255,255"
+                border-color="136,169,184,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" border-shape-rrarc="10.0" text-alignment="left" shadow-color="200,200,200,255" min-width="-1" min-height="-1"/>
+            <concept-appearance id="1R23R5BC5-1KJHRWM-1G4" x="1028" y="567" width="99" height="62" font-name="Trebuchet MS" font-size="13" font-style="bold" font-color="26,117,72,255" text-margin="4" background-color="255,255,255,255"
+                border-color="136,169,184,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" border-shape-rrarc="10.0" text-alignment="left" shadow-color="200,200,200,255" min-width="-1" min-height="-1"/>
+            <concept-appearance id="1R23R25LP-QRXWJR-18C" x="1017" y="439" width="81" height="49" font-name="Trebuchet MS" font-size="13" font-style="bold" font-color="26,117,72,255" text-margin="4" background-color="255,255,255,255"
+                border-color="136,169,184,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" border-shape-rrarc="10.0" text-alignment="left" shadow-color="200,200,200,255" min-width="-1" min-height="-1"/>
+            <concept-appearance id="1R23R81V1-17973PS-1NV" x="1008" y="380" width="62" height="62" font-name="Trebuchet MS" font-size="13" font-style="bold" font-color="26,117,72,255" text-margin="4" background-color="255,255,255,255"
+                border-color="136,169,184,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" border-shape-rrarc="10.0" text-alignment="left" shadow-color="200,200,200,255" min-width="-1" min-height="-1"/>
+            <concept-appearance id="1R23RLLL2-26G3C6V-2F8" x="1008" y="166" width="63" height="62" font-name="Trebuchet MS" font-size="13" font-style="bold" font-color="26,117,72,255" text-margin="4" background-color="255,255,255,255"
+                border-color="136,169,184,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" border-shape-rrarc="10.0" text-alignment="left" shadow-color="200,200,200,255" min-width="-1" min-height="-1"/>
+            <concept-appearance id="1R23R3CRL-6QJNPY-1BZ" x="771" y="562" width="114" height="77" font-name="Trebuchet MS" font-size="13" font-style="bold" font-color="26,117,72,255" text-margin="4" background-color="255,255,255,255"
+                border-color="136,169,184,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" border-shape-rrarc="10.0" text-alignment="center" shadow-color="200,200,200,255" min-width="-1" min-height="-1"/>
+            <concept-appearance id="1R23RNHXD-9WW5PM-2J4" x="1020" y="224" width="87" height="49" font-name="Trebuchet MS" font-size="13" font-style="bold" font-color="26,117,72,255" text-margin="4" background-color="255,255,255,255"
+                border-color="136,169,184,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" border-shape-rrarc="10.0" text-alignment="left" shadow-color="200,200,200,255" min-width="-1" min-height="-1"/>
+            <concept-appearance id="1R23R7JDN-1DW2FC9-1LV" x="1039" y="274" width="125" height="47" font-name="Trebuchet MS" font-size="13" font-style="bold" font-color="26,117,72,255" text-margin="4" background-color="255,255,255,255"
+                border-color="136,169,184,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" border-shape-rrarc="10.0" text-alignment="left" shadow-color="200,200,200,255" min-width="-1" min-height="-1"/>
+            <concept-appearance id="1R23R1HC4-28NVQN2-165" x="773" y="317" width="118" height="49" font-name="Trebuchet MS" font-size="13" font-style="bold" font-color="26,117,72,255" text-margin="4" background-color="255,255,255,255"
+                border-color="136,169,184,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" border-shape-rrarc="10.0" text-alignment="center" shadow-color="200,200,200,255" min-width="-1" min-height="-1"/>
+            <concept-appearance id="1R23RB7MT-25D07MX-1S4" x="1019" y="632" width="82" height="62" font-name="Trebuchet MS" font-size="13" font-style="bold" font-color="26,117,72,255" text-margin="4" background-color="255,255,255,255"
+                border-color="136,169,184,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" border-shape-rrarc="10.0" text-alignment="left" shadow-color="200,200,200,255" min-width="-1" min-height="-1"/>
+            <concept-appearance id="1R23R6WQ4-12JHSC8-1KT" x="760" y="379" width="91" height="34" font-name="Trebuchet MS" font-size="13" font-style="bold" font-color="26,117,72,255" text-margin="4" background-color="255,255,255,255"
+                border-color="136,169,184,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" border-shape-rrarc="10.0" text-alignment="center" shadow-color="200,200,200,255" min-width="-1" min-height="-1"/>
+            <concept-appearance id="1R23RL26H-1P1F4QB-2CS" x="1019" y="115" width="86" height="34" font-name="Trebuchet MS" font-size="13" font-style="bold" font-color="26,117,72,255" text-margin="4" background-color="255,255,255,255"
+                border-color="136,169,184,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" border-shape-rrarc="10.0" text-alignment="left" shadow-color="200,200,200,255" min-width="-1" min-height="-1"/>
+            <concept-appearance id="1R23R2MCR-1F57KHS-19H" x="756" y="439" width="83" height="62" font-name="Trebuchet MS" font-size="13" font-style="bold" font-color="26,117,72,255" text-margin="4" background-color="255,255,255,255"
+                border-color="136,169,184,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" border-shape-rrarc="10.0" text-alignment="center" shadow-color="200,200,200,255" min-width="-1" min-height="-1"/>
+        </concept-appearance-list>
+        <linking-phrase-appearance-list>
+            <linking-phrase-appearance id="1R23R7JDR-1W24PN2-1LY" x="899" y="379" width="46" height="11"/>
+            <linking-phrase-appearance id="1R23RL26L-V8RJJ2-2CW" x="899" y="222" width="46" height="11"/>
+            <linking-phrase-appearance id="1R23R1HC8-281633Z-168" x="600" y="412" width="45" height="25"/>
+            <linking-phrase-appearance id="1R23R5BC8-HYBG7Q-1G7" x="899" y="562" width="46" height="11"/>
+            <linking-phrase-appearance id="1R23R3YN4-HX54PY-1CM" x="899" y="439" width="46" height="11"/>
+        </linking-phrase-appearance-list>
+        <connection-appearance-list>
+            <connection-appearance id="1R23R7JDS-MWC9K0-1M7" from-pos="right" to-pos="left" type="bezier-4pt">
+                <control-point x="950" y="326"/>
+                <control-point x="950" y="326"/>
+            </connection-appearance>
+            <connection-appearance id="1R23R8QLF-2D29XT2-1Q4" from-pos="right" to-pos="left" type="bezier-4pt">
+                <control-point x="950" y="351"/>
+                <control-point x="950" y="351"/>
+            </connection-appearance>
+            <connection-appearance id="1R23RL26M-2BF1QB5-2D5" from-pos="right" to-pos="left" type="bezier-4pt">
+                <control-point x="950" y="168"/>
+                <control-point x="950" y="168"/>
+            </connection-appearance>
+            <connection-appearance id="1R23RL26M-22H05C8-2CZ" from-pos="right" to-pos="left" type="bezier-4pt">
+                <control-point x="852" y="269"/>
+                <control-point x="852" y="269"/>
+            </connection-appearance>
+            <connection-appearance id="1R23R81V4-20HQXH3-1NY" from-pos="right" to-pos="left" type="bezier-4pt">
+                <control-point x="950" y="379"/>
+                <control-point x="950" y="379"/>
+            </connection-appearance>
+            <connection-appearance id="1R23R7JDS-24P0HCF-1M1" from-pos="right" to-pos="left" type="bezier-4pt">
+                <control-point x="839" y="379"/>
+                <control-point x="839" y="379"/>
+            </connection-appearance>
+            <connection-appearance id="1R23RNHXH-GJYD3Q-2J7" from-pos="right" to-pos="left" type="bezier-4pt">
+                <control-point x="950" y="223"/>
+                <control-point x="950" y="223"/>
+            </connection-appearance>
+            <connection-appearance id="1R23R3YN5-7KJDFS-1CW" from-pos="right" to-pos="center" type="bezier-4pt">
+                <control-point x="847" y="439"/>
+                <control-point x="847" y="439"/>
+            </connection-appearance>
+            <connection-appearance id="1R23R1HC9-6QBJ02-16D" from-pos="right" to-pos="left" type="bezier-4pt">
+                <control-point x="555" y="412"/>
+                <control-point x="555" y="412"/>
+            </connection-appearance>
+            <connection-appearance id="1R23RLLL4-1L99G8T-2FC" from-pos="right" to-pos="left" type="bezier-4pt">
+                <control-point x="950" y="194"/>
+                <control-point x="950" y="194"/>
+            </connection-appearance>
+            <connection-appearance id="1R23R6WQ7-1PW6DYJ-1KX" from-pos="right" to-pos="left" type="bezier-4pt">
+                <control-point x="718" y="412"/>
+                <control-point x="622" y="377"/>
+            </connection-appearance>
+            <connection-appearance id="1R23R5BC9-XWLDLX-1GB" from-pos="right" to-pos="left" type="bezier-4pt">
+                <control-point x="850" y="562"/>
+                <control-point x="850" y="562"/>
+            </connection-appearance>
+            <connection-appearance id="1R23R2MCV-1FWMWX5-19L" from-pos="right" to-pos="left" type="bezier-4pt">
+                <control-point x="718" y="411"/>
+                <control-point x="622" y="441"/>
+            </connection-appearance>
+            <connection-appearance id="1R23R1HCB-1V5NQRS-16L" from-pos="right" to-pos="left" type="bezier-4pt">
+                <control-point x="714" y="412"/>
+                <control-point x="624" y="317"/>
+            </connection-appearance>
+            <connection-appearance id="1R23R3YN5-SKSTQ3-1CQ" from-pos="right" to-pos="left" type="bezier-4pt">
+                <control-point x="950" y="439"/>
+                <control-point x="950" y="439"/>
+            </connection-appearance>
+            <connection-appearance id="1R23R5BC9-1CPNJ75-1GJ" from-pos="right" to-pos="left" type="bezier-4pt">
+                <control-point x="951" y="564"/>
+                <control-point x="951" y="564"/>
+            </connection-appearance>
+            <connection-appearance id="1R23R4HDD-7DSM4R-1DT" from-pos="right" to-pos="left" type="bezier-4pt">
+                <control-point x="951" y="470"/>
+                <control-point x="951" y="470"/>
+            </connection-appearance>
+            <connection-appearance id="1R23R3CRP-1T1JPPY-1C2" from-pos="right" to-pos="left" type="bezier-4pt">
+                <control-point x="715" y="413"/>
+                <control-point x="627" y="560"/>
+            </connection-appearance>
+            <connection-appearance id="1R23RB7MX-9JJVY7-1S7" from-pos="right" to-pos="left" type="bezier-4pt">
+                <control-point x="951" y="597"/>
+                <control-point x="951" y="597"/>
+            </connection-appearance>
+        </connection-appearance-list>
+        <style-sheet-list>
+            <style-sheet id="_Default_">
+                <map-style background-color="231,244,242,255" image-style="not-drawn" image-top-left="0,0"/>
+                <concept-style font-name="Arial" font-size="12" font-style="plain" font-color="10,33,64,255" text-margin="4" background-color="255,255,255,255" background-image-style="full" border-color="3,127,140,255" border-style="solid"
+                    border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="29,31,34,255" min-width="-1" min-height="-1"/>
+                <linking-phrase-style font-name="Arial" font-size="12" font-style="plain" font-color="8,52,52,255" text-margin="1" background-color="0,0,255,0" background-image-style="full" border-color="0,0,0,255" border-style="none" border-thickness="1"
+                    border-shape="rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1"/>
+                <connection-style color="121,18,37,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept"/>
+                <resource-style font-name="SanSerif" font-size="12" font-style="plain" font-color="0,0,0,255" background-color="192,192,192,255"/>
+            </style-sheet>
+            <style-sheet id="_LatestChanges_">
+                <concept-style font-name="Trebuchet MS" font-size="13" font-style="bold" font-color="26,117,72,255" text-margin="4" background-color="255,255,255,255" border-color="136,169,184,255" border-style="solid" border-thickness="2"
+                    border-shape="rounded-rectangle" border-shape-rrarc="10.0" text-alignment="left" shadow-color="200,200,200,255" min-width="-1" min-height="-1"/>
+            </style-sheet>
+        </style-sheet-list>
+        <extra-graphical-properties-list>
+            <properties-list id="1R23QZ1F4-1HL1XFK-SZ">
+                <property key="StyleSheetGroup_0" value="//*@!#$%%^&amp;*()() No Grouped StyleSheets @"/>
+            </properties-list>
+        </extra-graphical-properties-list>
+    </map>
+</cmap>
